@@ -130,6 +130,9 @@ dmypy.json
 *~
 .DS_Store
 
+# Neo4j credentials
+Graph RAG/*.txt
+
 # Project specific
 *.csv
 *.xlsx
