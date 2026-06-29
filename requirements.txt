@@ -11,5 +11,14 @@ langchain-chroma
 pypdf
 tavily-python
 langchain-experimental
+langchain-unstructured
+chromadb
+unstructured[pdf,local-inference]
+pytesseract
+pdf2image
+open_clip_torch
+torch
+torchvision
+Pillow
 ipykernel
 fpdf2
